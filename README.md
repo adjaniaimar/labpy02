@@ -39,4 +39,50 @@ Run Program :
 
 ![run_while_for](https://github.com/user-attachments/assets/e54ccf45-521b-4a3e-a43b-313cc0a7fa6a)
 
+### Modul Praktikum 2 : Latihan 1
+Program :
+
+![program_nilai_akhir](https://github.com/user-attachments/assets/c7263453-1f80-4122-8ce8-8e04071696a4)
+
+Run Program :
+
+![run_nilai_akhir](https://github.com/user-attachments/assets/b41dd68c-582e-4ac0-a899-36cb4b1289b3)
+
+### Modul Praktikum 2 : Latihan 2
+Program :
+
+![program_status_gajikaryawan](https://github.com/user-attachments/assets/da8a0778-4168-4ce1-8262-380f013671b9)
+
+Run Program :
+
+![run_status_gajikaryawan](https://github.com/user-attachments/assets/a4b0ec76-473a-4e29-a04c-ddecaa2b2490)
+
+### Modul Praktikum 2 : Latihan 3
+Program :
+
+![program_penggunaan_or](https://github.com/user-attachments/assets/d6dbdc50-8855-4c67-b912-879d97d73b19)
+
+Run Program :
+
+![run_penggunaan_or](https://github.com/user-attachments/assets/91495ce5-4a3e-4a66-b9fb-beb318fde21f)
+
+### Kasus 1 : Program Pemesanan Tiket Bioskop
+Flowchart :
+Program :
+
+![kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1687fb9-8c55-47e0-930f-0dc949741f01)
+
+Run Program :
+
+![run_kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1999552-bbcf-4502-b3f7-dc402c798bfb)
+
+### Kasus 2 : Program Kalkulator Sederhana
+Flowchart :
+Program :
+
+![kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/d873aa1d-83df-453f-8f64-3e4146e54d9f
+
+Run Program :
+
+![run_kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/679c0c5d-4555-4ee8-bafb-3a8050767f59)
 
