@@ -67,7 +67,7 @@ Run Program :
 ![run_penggunaan_or](https://github.com/user-attachments/assets/91495ce5-4a3e-4a66-b9fb-beb318fde21f)
 
 ### Kasus 1 : Program Pemesanan Tiket Bioskop
-Flowchart :
+Flowchart : <br>
 Program :
 
 ![kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1687fb9-8c55-47e0-930f-0dc949741f01)
@@ -77,10 +77,11 @@ Run Program :
 ![run_kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1999552-bbcf-4502-b3f7-dc402c798bfb)
 
 ### Kasus 2 : Program Kalkulator Sederhana
-Flowchart :
+Flowchart : <br>
 Program :
 
-![kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/d873aa1d-83df-453f-8f64-3e4146e54d9f
+![kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/c61543da-b10c-4f6e-9eca-5851ae173c1c)
+
 
 Run Program :
 
