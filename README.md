@@ -1,2 +1,2 @@
-# labpy02
-Laporan Praktikum dan Latihan Mata Kuliah Pemrograman Dasar
+# PERTEMUAN 6
+Laporan Praktikum 2 dan Latihan Mata Kuliah Pengantar Pemrograman
