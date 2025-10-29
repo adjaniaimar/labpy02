@@ -115,7 +115,11 @@ Program :
 
 1. Gunakan while True agar program bisa digunakan tanpa click run berkali kali
 2. Buat variabel angka1, operator, dan angka2 untuk user menginput bilangan dan operasi kalkulasi yang ingin digunakan
-3. Gunakan 
+3. Gunakan statement if untuk penentuan variabel hasil
+4. Print hasil
+5. Tambahkan variabel 'lagi' , untuk menanyakan apakah user ingin menggunakan program nya kembali?
+6. Break jika tidak
+
 Run Program :
 
 ![run_kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/679c0c5d-4555-4ee8-bafb-3a8050767f59)
