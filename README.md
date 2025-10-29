@@ -51,6 +51,13 @@ Program :
 
 ![program_while_for](https://github.com/user-attachments/assets/e06d5179-3c8c-44e8-9a67-9a1d5dfd445f)
 
+1. Import random agar saat run menghasilkan angka acak
+2. Variabel n untuk user menginput berapa banyak bilangan output yang diinginkan
+3. Selama jumlah bilangan acak kurang dari n, lakukan loop
+4. Jika sudah menghasilkan bilangan n, maka break untuk menghentikan loop
+5. Gunakan if angka < 0.5 , agar bilangan yang hasilkan kurang dari 0.5
+6. Lalu print
+   
 Run Program :
 
 ![run_while_for](https://github.com/user-attachments/assets/e54ccf45-521b-4a3e-a43b-313cc0a7fa6a)
