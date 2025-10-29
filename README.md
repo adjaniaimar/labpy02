@@ -95,6 +95,14 @@ Program :
 
 ![kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1687fb9-8c55-47e0-930f-0dc949741f01)
 
+1. Tentukan variabel reguler dan vip untuk menetapkan harga
+2. Lalu variabel order untuk user menginput pemilihan tiket
+3. Gunakan statement if untuk penentuan harga awal
+4. Tambah variabel discount, untuk support variabel member yang akan diisi user
+5. Gunakan statement if untuk penentuan harga yang sudah di discount
+6. Tambah variabel qty, karena user pasti tidak memesan tiket hanya 1
+7. Print harga_akhir
+   
 Run Program :
 
 ![run_kasus1_tiketbioskoporder](https://github.com/user-attachments/assets/e1999552-bbcf-4502-b3f7-dc402c798bfb)
@@ -105,7 +113,9 @@ Program :
 
 ![kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/c61543da-b10c-4f6e-9eca-5851ae173c1c)
 
-
+1. Gunakan while True agar program bisa digunakan tanpa click run berkali kali
+2. Buat variabel angka1, operator, dan angka2 untuk user menginput bilangan dan operasi kalkulasi yang ingin digunakan
+3. Gunakan 
 Run Program :
 
 ![run_kasus2_kalkulatorsederhana](https://github.com/user-attachments/assets/679c0c5d-4555-4ee8-bafb-3a8050767f59)
