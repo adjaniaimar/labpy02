@@ -37,9 +37,9 @@ Program :
 ![program_nested_for](https://github.com/user-attachments/assets/8269238b-39dd-4b5d-a07a-6032a6f90c30)
 
 1. Tentukan variabel jumlah baris sesuai berapa row output yang diinginkan
-2. Lalu gunakan syntax outer loop untuk i = 0 dan j = 19
-3. Gunakan syntax inner loop untuk j = 0 sampai j = 9 (total 10 kali setiap row)
-4. Lalu print untuk mencetak i + j, dan tidak pindah baris dengan menggunakan syntax end=" "
+2. Lalu gunakan outer loop untuk i = 0 dan j = 19
+3. Gunakan inner loop untuk j = 0 sampai j = 9 (total 10 kali setiap row)
+4. Lalu print untuk mencetak i + j, dan tidak pindah baris dengan menggunakan end=" "
 5. Print() untuk membuat baris baru setelah 1 loop selesai
    
 Run Program :
