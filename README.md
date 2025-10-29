@@ -8,6 +8,11 @@ Program :
 
 ![program_statement_if](https://github.com/user-attachments/assets/7486b42b-3824-49a3-a49f-2341e5781b23)
 
+1. Buatlah variabel a,b,c,d dengan tujuan agar user menginput bilangan pertama sampai keempat
+2. Gunakan statement if untuk menentukan syarat yang harus dipenuhi untuk menjadi bilangan terbesar
+3. Gunakan statement else apabila yang terbesar adalah bilangan keempat
+4. Lalu print bilangan terbesar
+   
 Run Program :
 
 ![run_statement_if](https://github.com/user-attachments/assets/c1b19031-ca15-4d4c-a876-fa0d4189c361)
