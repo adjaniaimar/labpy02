@@ -22,6 +22,11 @@ Program :
 
 ![program_data_berurutan](https://github.com/user-attachments/assets/b8f02234-cbf3-4048-a4a7-ef0657dc1eae)
 
+1. Buatlah variabel a,b,c,d dengan tujuan agar user menginput bilangan pertama sampai keempat
+2. Lalu buat variabel baru bernama data yang akan diisi oleh keempat varibel yang diinput user
+3. Gunakan syntax data.sort() untuk mengurutkan dari yang terkecil
+4. Lalu print
+   
 Run Program :
 
 ![run_data_berurutan](https://github.com/user-attachments/assets/5a14fd9f-009a-424a-b39d-5862309e5f29)
